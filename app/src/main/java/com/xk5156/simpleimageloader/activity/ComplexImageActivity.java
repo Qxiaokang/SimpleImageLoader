@@ -31,7 +31,7 @@ import androidx.viewpager.widget.ViewPager;
 /**
  * @author Sergey Tarasevich (nostra13[at]gmail[dot]com)
  */
-public class ComplexImageActivity extends FragmentActivity {
+public class ComplexImageActivity extends FragmentActivity { 
 
 	private static final String STATE_POSITION = "STATE_POSITION";
 
